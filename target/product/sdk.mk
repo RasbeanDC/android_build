@@ -20,6 +20,7 @@ PRODUCT_PROPERTY_OVERRIDES :=
 PRODUCT_PACKAGES := \
 	Calculator \
 	DeskClock \
+	Dialer \
 	Email \
 	Exchange2 \
 	FusedLocation \
