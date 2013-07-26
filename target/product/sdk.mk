@@ -32,7 +32,6 @@ PRODUCT_PACKAGES := \
 	Phone \
 	PinyinIME \
 	Protips \
-	SoftKeyboard \
 	SystemUI \
 	Launcher2 \
 	Development \
